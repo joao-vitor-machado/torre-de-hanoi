@@ -46,6 +46,10 @@ Podemos seguir então, para 4 discos. Para movimentarmos 3 discos, precisamos de
 
 7 * 2 + 1 = 15
 
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
 
-
-| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
