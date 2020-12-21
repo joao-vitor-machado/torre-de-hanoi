@@ -33,3 +33,20 @@ de tamanho, com o menor disco acima de todos. O objetivo é mover todos os disco
 para C, obedecendo às seguintes regras:
  - Somente um disco pode ser posto de cada vez.
  - Um disco maior nunca pode ser posto sobre um disco menor.
+
+## Como saber qual o número ideal de movimentos que devo fazer?
+
+Imagine que temos apenas um disco, nas três astes. Nesse caso é fácil, teremos apenas um movimento. Imagine agora que, temos dois discos, em uma das astes. Nesse caso (considerando que devemos levar os discos de A até B), devemos mover o disco 1 até a aste C, depois levar o disco 2 até a haste B e, por fim, levar o disco 1 até a haste B. Assim, obtemos o mínimo de movimentos necessários (3 movimentos).
+
+Imagine agora, que temos 3 discos em uma haste A e devemos levar esses discos para uma haste B. De acordo com nossas experiências anteriores, sabemos que para mover dois discos para uma outra haste, precisamos de 3 movimentos. Portanto, devemos contabilizar 3 movimentos, para levar os dois primeiros discos até a haste C. Depois, contabilizamos 1 movimento, que levará o disco 3 até a haste B. Agora, consideramos mais 3 movimentos, para levar os dois primeiros discos até a haste B. Temos então:
+
+3 movimentos + 1 movimento + 3 movimentos = 7 movimentos
+
+Podemos seguir então, para 4 discos. Para movimentarmos 3 discos, precisamos de 2 x 7, mais 1 movimento, referente ao quarto disco, totalizando:
+
+7 * 2 + 1 = 15
+
+<ul>
+<ol>1</ol>
+<ol>2</ol>
+</ul>
