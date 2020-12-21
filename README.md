@@ -46,10 +46,10 @@ Podemos seguir então, para 4 discos. Para movimentarmos 3 discos, precisamos de
 
 7 * 2 + 1 = 15
 
-Exemplo   | Valor do exemplo
+Numero de Discos   | Número de Jogadas
 --------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+ 1 | 1
+ 2 | 3
+ 3 | 7
+ 4 | 15
 
