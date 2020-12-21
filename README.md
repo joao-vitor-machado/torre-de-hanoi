@@ -53,5 +53,13 @@ Numero de Discos   | Número de Jogadas
  3 | 7
  4 | 15
 
-Analisando a tabela acima, podemos percber uma relação. Os números de jogadas mínimas são, sempre, 2^num de discos
+Analisando a tabela acima, podemos percber uma relação. Os números de jogadas mínimas são, sempre, 2 ^ (num de discos) - 1. No entanto, apesar de essa relação funcionar para esses elementos, não há prova de que seja regra para todos os outros números da sequência. Portanto, vou provar:
 
+#### Base: X = 1 -> N = 2^1 - 1 = 1
+
+#### Hipótese: N(X) = 2^X - 1
+
+N(X + 1) = 2 N(X) + 1
+N(X + 1) = 2 (2^X - 1) + 1
+         = 2^X+1 - 2 + 1
+         = 2^X+1 - 1
