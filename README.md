@@ -47,8 +47,9 @@ Podemos seguir então, para 4 discos. Para movimentarmos 3 discos, precisamos de
 7 * 2 + 1 = 15
 
 <ul>
-<ol>1       1</ol>
-<ol>2       3</ol>
-<ol>3       7</ol>
-<ol>4       15</ol>
+<ol>num discos       num jogadas</ol>
+<ol>1                       1</ol>
+<ol>2                       3</ol>
+<ol>3                       7</ol>
+<ol>4                       15</ol>
 </ul>
