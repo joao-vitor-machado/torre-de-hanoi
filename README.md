@@ -31,5 +31,5 @@ chamar de A, B e C, as três hastes.
 No começo do jogo os discos estão todos enfiados na haste A, em ordem decrescente
 de tamanho, com o menor disco acima de todos. O objetivo é mover todos os discos, de A
 para C, obedecendo às seguintes regras:
- 1 - )Somente um disco pode ser posto de cada vez.
- 2 - )Um disco maior nunca pode ser posto sobre um disco menor.
+ - Somente um disco pode ser posto de cada vez.
+ - Um disco maior nunca pode ser posto sobre um disco menor.
