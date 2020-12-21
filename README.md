@@ -63,6 +63,12 @@ N(X + 1) = 2 N(X) + 1
 
 N(X + 1) = 2 (2^X - 1) + 1
 
-         = 2^X+1 - 2 + 1
-         
-         = 2^X+1 - 1
+            = 2^X+1 - 2 + 1
+
+            = 2^X+1 - 1
+
+A resolução acima prova que essa hipótese é verdadeira, já que o resultado é 2^X+1 - 1, ou seja, para todo número assumido por X, 2 elevado a X + 1 e isso menos 1, resulta no número que se encaixa na sequência da tabela, representada anteriormente.
+
+
+## Algoritmo para solucionar o quebra-cabeças
+
