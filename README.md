@@ -60,6 +60,9 @@ Analisando a tabela acima, podemos percber uma relação. Os números de jogadas
 #### Hipótese: N(X) = 2^X - 1
 
 N(X + 1) = 2 N(X) + 1
+
 N(X + 1) = 2 (2^X - 1) + 1
+
          = 2^X+1 - 2 + 1
+         
          = 2^X+1 - 1
