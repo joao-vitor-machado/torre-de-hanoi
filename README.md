@@ -53,3 +53,5 @@ Numero de Discos   | Número de Jogadas
  3 | 7
  4 | 15
 
+Analisando a tabela acima, podemos percber uma relação. Os números de jogadas mínimas são, sempre, 2^num de discos
+
