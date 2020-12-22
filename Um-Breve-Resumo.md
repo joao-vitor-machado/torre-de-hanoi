@@ -72,3 +72,13 @@ A resolução acima prova que essa hipótese é verdadeira, já que o resultado 
 
 ## Algoritmo para solucionar o quebra-cabeças
 
+Para solucionarmos esse problema, o ideal é a utilização de um algoritmo recursivo, que será melhor explicado no código.
+O algoritmo é definido da seguinte forma:
+
+ - Mover a torre de altura - 1 discos para a haste auxiliar, usando a haste de destino como intermediário
+ - Mover o disco restante para o pino destino 
+ - Mover a torre de altura - 1 para a haste destino, usando a haste auxiliar como intermediária 
+
+ Em linhas gerais, podemos ver que o algoritmo de resolução se comporta de maneira semelhante ao algoritmo de obtenção denúmero de jogadas. O objetivo é, primeiramente lidar com a torre de altura - 1, depois o disco final e finalmente, lidar novamente com a torre de altura - 1
+
+ Agora que já foi feito um breve resumo, vamos ao código!
