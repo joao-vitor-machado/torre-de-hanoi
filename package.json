@@ -1,0 +1,19 @@
+{
+  "name": "torre-de-hanoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "algoritmo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-vitor-machado/torre-de-hanoi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joao-vitor-machado/torre-de-hanoi/issues"
+  },
+  "homepage": "https://github.com/joao-vitor-machado/torre-de-hanoi#readme"
+}
