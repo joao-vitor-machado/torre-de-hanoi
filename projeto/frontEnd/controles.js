@@ -1,3 +1,3 @@
-import * as eu from "algoritmo.js";
+import {solveGameProblem, defineNumberOfMoves} from "../algoritmo.js";
 
-eu.solveGameProblem(4, "A", "B", "C");
+solveGameProblem(4, "A", "B", "C");

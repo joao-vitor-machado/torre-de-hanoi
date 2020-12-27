@@ -25,9 +25,4 @@ function solveGameProblem(height, fromStem, toStem, withStem) {
 
 }
 
-export function solveGameProblem();
-
-console.log("O número mínimo de jogadas é de " + defineNumberOfMoves(4));
-solveGameProblem(4, "A", "B", "C");
-
-console.log("O número total de movimentos feitos foi de " + numeroPlays);
+export {solveGameProblem, defineNumberOfMoves}
